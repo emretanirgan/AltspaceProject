@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GlobalScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="105" Column="63" />
+      <File FileName="Assets\Scripts\GlobalScript.cs" Line="29" Column="19" />
+      <File FileName="Assets\OVR\Scripts\OVRManager.cs" Line="22" Column="14" />
+      <File FileName="Assets\OVR\Scripts\OVRCameraRig.cs" Line="31" Column="10" />
+      <File FileName="Assets\OVR\Scripts\Util\OVRPlayerController.cs" Line="293" Column="23" />
+      <File FileName="Assets\OVR\Scripts\OVRDisplay.cs" Line="27" Column="14" />
+      <File FileName="Assets\OVR\Scripts\Util\OVRGamepadController.cs" Line="22" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
